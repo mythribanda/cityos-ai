@@ -1,0 +1,6 @@
+{
+  "name": "CityOS AI",
+  "description": "Smart City Digital Twin & AI Command Center for managing traffic, floods, AQI, waste, and emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
